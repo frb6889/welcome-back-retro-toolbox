@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/welcome-back-retro-toolbox/static/css/main.0df9cbaf.css",
-    "main.js": "/welcome-back-retro-toolbox/static/js/main.c5423ea9.js",
+    "main.js": "/welcome-back-retro-toolbox/static/js/main.8c72ba3f.js",
     "static/js/453.245c4b66.chunk.js": "/welcome-back-retro-toolbox/static/js/453.245c4b66.chunk.js",
     "index.html": "/welcome-back-retro-toolbox/index.html",
     "main.0df9cbaf.css.map": "/welcome-back-retro-toolbox/static/css/main.0df9cbaf.css.map",
-    "main.c5423ea9.js.map": "/welcome-back-retro-toolbox/static/js/main.c5423ea9.js.map",
+    "main.8c72ba3f.js.map": "/welcome-back-retro-toolbox/static/js/main.8c72ba3f.js.map",
     "453.245c4b66.chunk.js.map": "/welcome-back-retro-toolbox/static/js/453.245c4b66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0df9cbaf.css",
-    "static/js/main.c5423ea9.js"
+    "static/js/main.8c72ba3f.js"
   ]
 }
